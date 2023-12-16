@@ -1,0 +1,2480 @@
+[
+    {
+        "image_name": "Austin, Texas, USA_Start_152414811_End_152414817.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1401881082_End_152380979.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152550829_End_152436090.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152420997_End_152492293.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152510968_End_152567139.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152484852_End_152398450.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152608874_End_152460225.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152760336_End_152428869.png",
+        "directions": [
+            "straight from Starting Node to S10",
+            "left from S10 to S3",
+            "left from S3 to S4",
+            "right from S4 to S11",
+            "left from S11 to S12",
+            "straight from S12 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1372602101_End_152463455.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152533835_End_152391486.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152588768_End_2932119901.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152383675_End_3448926304.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S5",
+            "right from S5 to S6",
+            "left from S6 to S10",
+            "straight from S10 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152723404_End_152608872.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "left from S7 to S3",
+            "right from S3 to S2",
+            "right from S2 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_6685030342_End_152580969.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152449673_End_152411775.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1398233133_End_152539674.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152433822_End_152433824.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152481474_End_152421027.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152680125_End_152510975.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152547375_End_152619462.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152397908_End_152621218.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S7",
+            "right from S7 to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_3108208526_End_282770207.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1439943337_End_152572988.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152539571_End_152496718.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1631496585_End_152380785.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "left from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_446276577_End_152630025.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152424668_End_152458365.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S4",
+            "right from S4 to S7",
+            "left from S7 to S10",
+            "straight from S10 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152460441_End_152393452.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_2657106949_End_152566929.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1447422268_End_152711971.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S1",
+            "left from S1 to S4",
+            "left from S4 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152475275_End_152444376.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152456683_End_152393446.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S3",
+            "left from S3 to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152597973_End_152597869.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S7",
+            "right from S7 to S9",
+            "left from S9 to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_359236345_End_152492293.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_3430376510_End_152472474.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152696204_End_5524882233.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152584598_End_152584602.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152460194_End_152608913.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "right from S7 to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152618098_End_5526659320.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_5515542394_End_152421021.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152459441_End_152510250.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152622946_End_11228269335.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152731805_End_152723591.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152431970_End_152549868.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152571245_End_152519751.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152686536_End_152554806.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "left from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152555089_End_152555096.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152439405_End_152566920.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1761842479_End_11113961464.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1402993216_End_1402993257.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152522854_End_152554932.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S9",
+            "straight from S9 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152401963_End_152609950.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152636853_End_152521652.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S7",
+            "left from S7 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152393515_End_152428308.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "left from S7 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152546231_End_152407062.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S5",
+            "left from S5 to S9",
+            "straight from S9 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152621028_End_152490517.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152671256_End_152664355.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152419544_End_152463856.png",
+        "directions": [
+            "straight from Starting Node to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152456683_End_152456679.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152403707_End_152654896.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S5",
+            "left from S5 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152634870_End_152680118.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152414015_End_152711033.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S7",
+            "right from S7 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152450417_End_152595551.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152516193_End_152500717.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S2",
+            "right from S2 to S6",
+            "left from S6 to S3",
+            "left from S3 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152616235_End_152555103.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152566934_End_152579560.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152388417_End_152502336.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1626555834_End_152601031.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152663610_End_152450394.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152577615_End_2460045497.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152533855_End_3953007985.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152414832_End_3416593026.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "left from S7 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152480261_End_152657417.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "right from S6 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_2543850797_End_2543850794.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_9000365699_End_152601525.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S4",
+            "right from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152480172_End_152398296.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152759764_End_152494834.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152496937_End_152414757.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152401932_End_152580960.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "right from S6 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152570540_End_152614208.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152694978_End_152595618.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152731816_End_152686015.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152435088_End_152567581.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S6",
+            "left from S6 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152368136_End_2460045468.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152483170_End_152483171.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152548976_End_152621030.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152571144_End_152483178.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1832592882_End_1832592877.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "left from Unnamed Road to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152510252_End_152510251.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152444420_End_152444417.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152671282_End_152432179.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152460135_End_152460136.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152408611_End_152408623.png",
+        "directions": [
+            "straight from Starting Node to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_3253034887_End_152397908.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S8",
+            "left from S8 to S1",
+            "right from S1 to S3",
+            "left from S3 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152426932_End_152555103.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S5",
+            "right from S5 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152620513_End_3240494237.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "right from S6 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152397912_End_152444355.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S1",
+            "left from S1 to S3",
+            "right from S3 to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_280230030_End_152456687.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1626555828_End_152486610.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "left from S7 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_471726846_End_152383652.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152636886_End_152486609.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "left from S1 to S8",
+            "right from S8 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_8822670849_End_1398233133.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152427620_End_152391475.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S8",
+            "right from S8 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152443531_End_152569235.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S5",
+            "left from S5 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_2460051178_End_152410228.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152688943_End_152551114.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S7",
+            "left from S7 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152502379_End_4941532142.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1832592877_End_1832592881.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1389067591_End_318006898.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152400275_End_152514658.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_4463616777_End_152616210.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S4",
+            "right from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1491910560_End_6478688587.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1832592887_End_1832592890.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152497113_End_152456687.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S4",
+            "right from S4 to Unnamed Road",
+            "right from Unnamed Road to S3",
+            "right from S3 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152458371_End_152594888.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152697457_End_152427625.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152604219_End_152629396.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152483184_End_152571149.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152410228_End_152552203.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S5",
+            "left from S5 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_3348579362_End_3348579361.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152525947_End_152496928.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152547971_End_3159259128.png",
+        "directions": [
+            "straight from Starting Node to S8",
+            "right from S8 to S3",
+            "left from S3 to S2",
+            "right from S2 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152672658_End_152533847.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152463871_End_152755420.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152551114_End_11228277149.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152527545_End_152527540.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152589099_End_1493980174.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S3",
+            "right from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152457471_End_1750575167.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152400195_End_152460434.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "right from S6 to S3",
+            "right from S3 to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152405607_End_1774348735.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_2124700351_End_152740360.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152679505_End_152621030.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152480170_End_152398278.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "right from S6 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_9000365657_End_9000365695.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S2",
+            "right from S2 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152723592_End_152647016.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152496718_End_152555107.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S4",
+            "right from S4 to S3",
+            "left from S3 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152502007_End_152502012.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152408592_End_152460198.png",
+        "directions": [
+            "straight from Starting Node to S8",
+            "right from S8 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152622972_End_152599664.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_5785257018_End_152527690.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to Unnamed Road",
+            "right from Unnamed Road to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152501997_End_152502004.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152574908_End_11228269334.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152576813_End_152500631.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152539646_End_152451615.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S1",
+            "right from S1 to S3",
+            "right from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_298584729_End_152500768.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S4",
+            "right from S4 to S5",
+            "right from S5 to S9",
+            "straight from S9 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152621002_End_152621005.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1424731155_End_152480900.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "right from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_10020206669_End_5565792454.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152486301_End_152380785.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S1",
+            "right from S1 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_5241212032_End_152654002.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S4",
+            "left from S4 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1833606758_End_1389067590.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_8822670850_End_4941532142.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152527643_End_152693197.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152493812_End_152658834.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S3",
+            "right from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152408568_End_152401930.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "right from S7 to S2",
+            "left from S2 to S6",
+            "right from S6 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152502336_End_152388414.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152485813_End_152418401.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152373750_End_152380968.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152481476_End_152646200.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152373750_End_152686535.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S1",
+            "left from S1 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1774348643_End_1774348658.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S3",
+            "left from S3 to S2",
+            "left from S2 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152664480_End_152690638.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_3108208525_End_3277514044.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "left from Unnamed Road to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152643393_End_152744458.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152616235_End_152555108.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152637999_End_152638002.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_9001745803_End_152654368.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152435826_End_152547389.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152435940_End_152423044.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152566920_End_152439407.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "left from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152428869_End_152452542.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S7",
+            "right from S7 to S6",
+            "right from S6 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152521569_End_152440095.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152447416_End_152418401.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "right from S2 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152539456_End_152419834.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S3",
+            "left from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152451543_End_152509949.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "right from S6 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1832592882_End_2161678009.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S1",
+            "right from S1 to S3",
+            "left from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152567128_End_152502356.png",
+        "directions": [
+            "straight from Starting Node to S8",
+            "right from S8 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_3277552714_End_5596830031.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152414823_End_152458290.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S4",
+            "left from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1806803962_End_152509972.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152450391_End_9392594669.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152598882_End_152437463.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152569232_End_152433040.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S3",
+            "right from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152686015_End_152550827.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152485682_End_152387234.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152388406_End_9417257852.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152428305_End_1626555846.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1073400837_End_152495624.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152370773_End_152538249.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152458386_End_152594893.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152480207_End_152723404.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152548204_End_152481895.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152371549_End_1408085530.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152472452_End_152609968.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_4463616779_End_152539447.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S2",
+            "left from S2 to S3",
+            "right from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152458294_End_152447399.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S5",
+            "left from S5 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152551106_End_3349089016.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152475275_End_152444378.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152632804_End_152595766.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152500717_End_152456593.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "left from S7 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152502970_End_1389067590.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152439733_End_152651109.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_11228269335_End_1401881085.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_3160503605_End_1626559347.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S2",
+            "right from S2 to S6",
+            "left from S6 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152654358_End_152424974.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S5",
+            "right from S5 to S1",
+            "left from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152411426_End_152408562.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152476013_End_1929310519.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152450425_End_152540746.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152638396_End_152546234.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152443763_End_152458312.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152433822_End_1440043966.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S4",
+            "right from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152419834_End_152577608.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152485665_End_9000365698.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S1",
+            "right from S1 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152648931_End_152648935.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152580949_End_152608904.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152538249_End_300710739.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152423042_End_152444376.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_7125178383_End_152578727.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S3",
+            "left from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152584602_End_152571140.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152500765_End_152500742.png",
+        "directions": [
+            "straight from Starting Node to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152509955_End_152509952.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152631241_End_4344958701.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S3",
+            "right from S3 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152486618_End_152502985.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152481478_End_152555096.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152491396_End_152598350.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152428872_End_152591230.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S4",
+            "left from S4 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_4344959436_End_152621173.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S6",
+            "left from S6 to S5",
+            "right from S5 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_4093998599_End_152456334.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "left from Unnamed Road to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152522129_End_152522132.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152566316_End_152604219.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152380946_End_152380979.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152569235_End_152433038.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152486191_End_152692085.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "right from S7 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152458312_End_152443763.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_282051767_End_152424972.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S1",
+            "left from S1 to S3",
+            "right from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152447353_End_152496940.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152584555_End_152700923.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S2",
+            "left from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152569235_End_152433040.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152621002_End_152550827.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152569193_End_152522132.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152566374_End_152388960.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152483184_End_152410685.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "right from S7 to S4",
+            "left from S4 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152521572_End_152569106.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152414811_End_152392007.png",
+        "directions": [
+            "straight from Starting Node to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152527540_End_152394823.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S1",
+            "left from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152522132_End_152569193.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_471726832_End_1402993237.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1401880959_End_152599664.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152458396_End_152387741.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152458285_End_152529853.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152486306_End_152486309.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152444442_End_152444440.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152609968_End_152449673.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152458300_End_152609950.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152622968_End_1401881085.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S6",
+            "left from S6 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_282394349_End_152607125.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S5",
+            "right from S5 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152433054_End_152433046.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_5515542375_End_5515542378.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "left from Unnamed Road to S1",
+            "left from S1 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152502986_End_152502985.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_2290018048_End_2290018050.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152486193_End_152693212.png",
+        "directions": [
+            "straight from Starting Node to S8",
+            "right from S8 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152408623_End_152450407.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S7",
+            "right from S7 to S6",
+            "left from S6 to S8",
+            "right from S8 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152411090_End_152368147.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152379808_End_152379839.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S5",
+            "left from S5 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152620862_End_152688700.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152388423_End_152388417.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152588766_End_152490183.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152583391_End_152398234.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S1",
+            "left from S1 to S2",
+            "right from S2 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152387799_End_152554786.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152419055_End_1631496602.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "left from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1782365509_End_152502995.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_280230165_End_152497111.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "right from S6 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152510965_End_152510963.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152696204_End_152636855.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152481476_End_152555092.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152426938_End_152610725.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_430997897_End_152614206.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152380785_End_152374854.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152450407_End_152740360.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152740801_End_152597971.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "left from S1 to S10",
+            "straight from S10 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152654371_End_152601495.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152566402_End_1457460642.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152483641_End_152594893.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152588059_End_152424769.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_6961048628_End_3588213539.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_9000365701_End_152654319.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_2328939747_End_152456593.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152492293_End_342598912.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S3",
+            "left from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_5565792454_End_152397884.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152393507_End_152428310.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152533851_End_152415941.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152463469_End_152700425.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S4",
+            "right from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152372942_End_152372940.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152539458_End_2460045496.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S4",
+            "right from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152504237_End_152679235.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152744458_End_152480185.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152468939_End_152744468.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152602137_End_1759328746.png",
+        "directions": [
+            "straight from Starting Node to S8",
+            "left from S8 to S6",
+            "left from S6 to S9",
+            "straight from S9 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152722206_End_152408558.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152591887_End_10724717793.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S3",
+            "left from S3 to S7",
+            "right from S7 to S6",
+            "right from S6 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152621094_End_152398258.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152510975_End_152522815.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152558378_End_9001745802.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_1873563378_End_152527641.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to Unnamed Road",
+            "right from Unnamed Road to S6",
+            "left from S6 to S4",
+            "left from S4 to S6",
+            "left from S6 to Unnamed Road",
+            "right from Unnamed Road to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152512827_End_1438085732.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152427622_End_2149602209.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "right from S7 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152664580_End_152539449.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152595185_End_152388409.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152497111_End_152457478.png",
+        "directions": [
+            "straight from Starting Node to S9",
+            "left from S9 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152407988_End_152407991.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "Austin, Texas, USA_Start_152415386_End_152424972.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    }
+]

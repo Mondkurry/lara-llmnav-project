@@ -1,0 +1,2490 @@
+[
+    {
+        "image_name": "San Jose, California, USA_Start_65482937_End_65493701.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65469781_End_65419248.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65665944_End_580402450.png",
+        "directions": [
+            "straight from Starting Node to S8",
+            "left from S8 to S1",
+            "right from S1 to S4",
+            "right from S4 to S3",
+            "right from S3 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65487665_End_65487661.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65463359_End_3608363137.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S3",
+            "right from S3 to S4",
+            "left from S4 to Unnamed Road",
+            "left from Unnamed Road to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65571860_End_65466435.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3616819744_End_246437823.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S1",
+            "left from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65634107_End_65481393.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65421980_End_65559027.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_11280636910_End_312649105.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65606646_End_65488525.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65624933_End_65621283.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65597114_End_2088100893.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3539620157_End_3539620162.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "right from S7 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65595260_End_65476624.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65676520_End_65575827.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65520571_End_65520565.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_4951830850_End_65529135.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65488330_End_1079963843.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65498610_End_65580056.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65476641_End_65532756.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3584324263_End_65541606.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_7785697852_End_65435565.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3614216324_End_65529802.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65551811_End_65510124.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65554147_End_65454160.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3540148656_End_8777619964.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S1",
+            "left from S1 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65532744_End_65532745.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3367016408_End_246008826.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65536216_End_65665474.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_9936449389_End_5373722397.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3608363143_End_65498689.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3624973574_End_3624973572.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_283273053_End_65520536.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1079963813_End_288987168.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65512102_End_65512094.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1083003528_End_1083003536.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_5875132320_End_65548526.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65510337_End_65618186.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_312649114_End_65459863.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "left from S7 to S1",
+            "right from S1 to S6",
+            "left from S6 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_289813699_End_65537585.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_435806641_End_10578450107.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65532746_End_65450669.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3678132213_End_376021967.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_9742413172_End_65476619.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S2",
+            "right from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65520574_End_65460566.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65440579_End_1083003536.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to Unnamed Road",
+            "left from Unnamed Road to S2",
+            "left from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_9984340659_End_312709062.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65578076_End_65614956.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S10",
+            "right from S10 to S4",
+            "right from S4 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65466423_End_65466422.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3537422685_End_655415820.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65498926_End_3545059707.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S3",
+            "left from S3 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65554417_End_65554423.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3011331932_End_3049156913.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S6",
+            "right from S6 to S2",
+            "right from S2 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65532756_End_65460549.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_311464379_End_1070170017.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3614216323_End_65468916.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65490726_End_65418148.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_8898123529_End_3678132184.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "left from Unnamed Road to S5",
+            "left from S5 to Unnamed Road",
+            "left from Unnamed Road to S4",
+            "right from S4 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65490731_End_65519321.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3509442192_End_65414174.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1070170042_End_611527925.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_289648160_End_65490739.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S4",
+            "left from S4 to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65534075_End_3614216329.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_9273506442_End_65467678.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3614092073_End_3614120387.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S2",
+            "left from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_373376250_End_2983992336.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_7276152135_End_65508975.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_2494527819_End_2494527805.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3625888876_End_65519350.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65500440_End_65460546.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65534078_End_65519598.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3587933288_End_3584324262.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S3",
+            "left from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_283285934_End_65476612.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S3",
+            "right from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65659369_End_312089276.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65426250_End_65395436.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65406076_End_65529824.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65575678_End_65430127.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65498681_End_65644324.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65402768_End_8847870779.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "left from S7 to S1",
+            "left from S1 to S4",
+            "left from S4 to S1",
+            "left from S1 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65470679_End_65459884.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_312709067_End_286102947.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_741845191_End_65590612.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65510363_End_65460568.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65476785_End_2429894570.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65529243_End_281149294.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65592799_End_65616095.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_655415820_End_246437952.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65546464_End_65579993.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65667471_End_469058151.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S3",
+            "left from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65466744_End_65466746.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1070176146_End_3668281720.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S2",
+            "left from S2 to Unnamed Road",
+            "left from Unnamed Road to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65490739_End_65490731.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_312649105_End_611415423.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65594222_End_2491633975.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "left from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1025294963_End_6251005461.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65574807_End_65574809.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65488315_End_65488328.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S2",
+            "right from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65580814_End_65476636.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65532744_End_65537596.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_373071004_End_3643661891.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3616819739_End_65539367.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3049156913_End_33102396.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65457981_End_65464436.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3614092073_End_1081079638.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S6",
+            "right from S6 to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65628113_End_65494697.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65580056_End_65580053.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65583503_End_65613327.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65653000_End_65574805.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65624800_End_65580107.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65546173_End_65630426.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_312382935_End_65519308.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65442692_End_65437214.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S4",
+            "right from S4 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65421976_End_65421978.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_614066210_End_65628100.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1102406262_End_5020830659.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65419222_End_65529243.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65574807_End_65653000.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "right from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65634107_End_6399827553.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S4",
+            "right from S4 to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65481390_End_65621277.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_2619144309_End_580402855.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65460559_End_65590405.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_444934559_End_65545686.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_308866396_End_3632374240.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65534792_End_65613327.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S5",
+            "right from S5 to S4",
+            "left from S4 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65430040_End_4182147571.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65574516_End_65435565.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65399739_End_65546835.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65493699_End_65493701.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65476651_End_65494697.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65590976_End_65529814.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65539286_End_65572931.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S5",
+            "right from S5 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65571860_End_65459884.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_5373722397_End_65459863.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "right from S6 to S3",
+            "right from S3 to S7",
+            "left from S7 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_245924868_End_65593840.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65519592_End_65430055.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3678132195_End_373071002.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65636067_End_444928038.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65546221_End_65663132.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65626564_End_65379915.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "left from S1 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_245812738_End_3652272573.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "left from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_10099906830_End_10099906818.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65469788_End_65419234.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_9984340659_End_65644705.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S4",
+            "right from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_373071002_End_3678132192.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65495047_End_65649696.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "right from S6 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_9273506376_End_65467686.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S4",
+            "right from S4 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_308866389_End_313250512.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65487786_End_1709219283.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65657850_End_65466737.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_286102947_End_371261444.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65454165_End_65545372.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65584829_End_3652090795.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3509442190_End_65387602.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to Unnamed Road",
+            "left from Unnamed Road to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65491417_End_314490550.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S4",
+            "left from S4 to S7",
+            "left from S7 to S6",
+            "right from S6 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_4915180404_End_65442695.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S1",
+            "left from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65454161_End_65454165.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65584868_End_65488030.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65543972_End_65545916.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S3",
+            "right from S3 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65502093_End_312709063.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65426295_End_65430055.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65580056_End_65610580.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "left from S7 to S8",
+            "left from S8 to S5",
+            "right from S5 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65495064_End_7271462402.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65551811_End_65574516.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65587716_End_65628661.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_614042733_End_4977823055.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65607505_End_65586497.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65554789_End_3588542104.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_5223617608_End_5288570860.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_410698666_End_246295701.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_6313156774_End_5373722391.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S6",
+            "left from S6 to S3",
+            "left from S3 to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_313250499_End_3632374224.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65518073_End_614066210.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_312709063_End_371261444.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3678132215_End_3678132213.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3614216323_End_3614216320.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65466419_End_65469338.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_344850531_End_518943668.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65590607_End_282554960.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65619425_End_65460559.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65593462_End_65459869.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65459884_End_261619265.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3478495391_End_65457979.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S1",
+            "left from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65509018_End_10099906830.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to Unnamed Road",
+            "right from Unnamed Road to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65546833_End_1025294963.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1079963816_End_65628657.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65618343_End_65421978.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "right from S6 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_5020538577_End_8777619982.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S3",
+            "right from S3 to Unnamed Road",
+            "right from Unnamed Road to S3",
+            "left from S3 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65662395_End_65468853.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_544360843_End_580402356.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S8",
+            "left from S8 to S5",
+            "left from S5 to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65485565_End_65491795.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65532759_End_65532757.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3742086727_End_3545059704.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65500447_End_65565335.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1070170017_End_3633625394.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S2",
+            "left from S2 to S3",
+            "left from S3 to S1",
+            "left from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65477075_End_316559761.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S1",
+            "left from S1 to S4",
+            "right from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65572928_End_65618343.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65597110_End_65656541.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3614216337_End_3035992973.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3548902910_End_65595263.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65466410_End_65551811.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65580281_End_7335772891.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3614092076_End_3614120377.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_6795747411_End_65426377.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65532751_End_65579991.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65532740_End_65532737.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_312709063_End_371261444.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65581875_End_65578424.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_8931953490_End_1709219276.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65640066_End_1079831502.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_2429894552_End_65520556.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S2",
+            "left from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65432447_End_65506185.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65615494_End_65539378.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_7276152140_End_283273278.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65460564_End_65460566.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65493694_End_65473611.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S4",
+            "left from S4 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65460555_End_65532753.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65429076_End_65429079.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65616137_End_9936449397.png",
+        "directions": [
+            "straight from Starting Node to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65532740_End_65466420.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_376021967_End_65449896.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_4182142108_End_65473617.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65402768_End_1954370087.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65466423_End_65600490.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65386530_End_287826043.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1079893380_End_1079893236.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65622221_End_65420459.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S2",
+            "left from S2 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65653000_End_65574805.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65457980_End_444928038.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65551808_End_65590604.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_286102947_End_286098579.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S5",
+            "right from S5 to S1",
+            "left from S1 to S3",
+            "right from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65430057_End_65565335.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1081273246_End_245974402.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65430065_End_65519602.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65452859_End_65648349.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1709219276_End_65487768.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S1",
+            "right from S1 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65423788_End_65510357.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S6",
+            "right from S6 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65554782_End_65507828.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_312709309_End_65378252.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65600755_End_65555312.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_10680106675_End_1079963849.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S4",
+            "left from S4 to S2",
+            "left from S2 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65449903_End_353140136.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65555044_End_65606905.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65649754_End_65487649.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_7271462413_End_65515613.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65433405_End_65429076.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3633625399_End_3633625394.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65476619_End_65466413.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65467684_End_9273506380.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S1",
+            "right from S1 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_2338675657_End_65544791.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_246438140_End_246438202.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S4",
+            "right from S4 to S7",
+            "left from S7 to S2",
+            "right from S2 to S6",
+            "left from S6 to S10",
+            "straight from S10 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65498926_End_3678132174.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65454201_End_305551567.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "right from S6 to Unnamed Road",
+            "right from Unnamed Road to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3695779898_End_1115349468.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65532746_End_65450669.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65529813_End_65529810.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1070170017_End_1937129066.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_7483731418_End_65554596.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3668281721_End_611527913.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65473792_End_2901362279.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_5140518591_End_65574067.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to Unnamed Road",
+            "right from Unnamed Road to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1081273396_End_1081273302.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_308866389_End_3676865359.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65544632_End_65426409.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65450673_End_65610307.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65383852_End_7907180604.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "right from S5 to S4",
+            "left from S4 to S6",
+            "right from S6 to S1",
+            "right from S1 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65613341_End_3011331878.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65544799_End_65497338.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "left from S1 to S5",
+            "left from S5 to S4",
+            "left from S4 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1081152552_End_3614092077.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S2",
+            "right from S2 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65510341_End_283273053.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S3",
+            "right from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65518921_End_65489198.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_5373722391_End_3633661712.png",
+        "directions": [
+            "straight from Starting Node to S8",
+            "right from S8 to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_373071002_End_7335772891.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65506180_End_10578450110.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_465196504_End_465196363.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3630591403_End_3646555383.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "left from Unnamed Road to S3",
+            "right from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65440579_End_5954593851.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to Unnamed Road",
+            "left from Unnamed Road to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_580402356_End_652383138.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S5",
+            "left from S5 to S6",
+            "right from S6 to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65637621_End_6696236634.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S1",
+            "left from S1 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_655859072_End_312649431.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "straight from Unnamed Road to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_283273279_End_3540148659.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65549972_End_1860870721.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65483365_End_65466628.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65532749_End_65476641.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S5",
+            "left from S5 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65581887_End_9936449359.png",
+        "directions": [
+            "straight from Starting Node to S9",
+            "right from S9 to S3",
+            "right from S3 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65513990_End_4183808292.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S8",
+            "straight from S8 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_314490549_End_65578424.png",
+        "directions": [
+            "straight from Starting Node to S9",
+            "right from S9 to S10",
+            "right from S10 to S7",
+            "straight from S7 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65454160_End_65521616.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65636067_End_65457981.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "left from S4 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65628380_End_4555119431.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "right from S2 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65644327_End_65644322.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_5889306453_End_65518072.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_5288570861_End_308866396.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "left from S2 to S6",
+            "right from S6 to S1",
+            "right from S1 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_283273051_End_65466430.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "left from S3 to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65419222_End_5223617608.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65414037_End_312089276.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65469791_End_65510115.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3643661910_End_3678132206.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "right from S4 to S1",
+            "right from S1 to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_289813699_End_640768615.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "right from S1 to S5",
+            "left from S5 to Unnamed Road",
+            "left from Unnamed Road to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_283283760_End_7276152140.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "left from S5 to S4",
+            "right from S4 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65579981_End_65518074.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65628380_End_7271462413.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "right from S3 to S1",
+            "left from S1 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3624973572_End_65580000.png",
+        "directions": [
+            "straight from Starting Node to Unnamed Road",
+            "right from Unnamed Road to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65460552_End_65532757.png",
+        "directions": [
+            "straight from Starting Node to S1",
+            "straight from S1 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65551833_End_65590976.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "right from S6 to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65626558_End_3614216329.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65509484_End_65545931.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "straight from S6 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_3509442190_End_3509442189.png",
+        "directions": [
+            "straight from Starting Node to S2",
+            "straight from S2 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_283273279_End_65510337.png",
+        "directions": [
+            "straight from Starting Node to S3",
+            "straight from S3 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_65659369_End_314490550.png",
+        "directions": [
+            "straight from Starting Node to S6",
+            "left from S6 to S3",
+            "right from S3 to S4",
+            "straight from S4 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_2861154405_End_65454194.png",
+        "directions": [
+            "straight from Starting Node to S5",
+            "straight from S5 to Ending Node"
+        ]
+    },
+    {
+        "image_name": "San Jose, California, USA_Start_1020987541_End_65454158.png",
+        "directions": [
+            "straight from Starting Node to S4",
+            "straight from S4 to Ending Node"
+        ]
+    }
+]
